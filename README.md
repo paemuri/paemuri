@@ -4,9 +4,7 @@
 
 <p align="center">
   There you can find everything about me:
-</p>
-
-<p align="center">
+  <br>
   contact, social networks, and even some crypto wallets, if you're feeling generous
 </p>
 
