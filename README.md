@@ -1,1 +1,1 @@
-\> [nhande.ru](https://nhanderu.com)
+\> [paemuri.com](https://paemuri.com)
